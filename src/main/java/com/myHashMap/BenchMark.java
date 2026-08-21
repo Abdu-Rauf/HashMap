@@ -1,4 +1,4 @@
-package com.aamir;
+package com.myHashMap;
 
 import java.util.HashMap;
 import java.util.Random;

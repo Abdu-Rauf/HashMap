@@ -1,4 +1,4 @@
-package com.aamir;
+package com.myHashMap;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.aamir;
+package com.myHashMap;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
